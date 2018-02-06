@@ -170,6 +170,20 @@ function hideOptions()
     secBlue.hide();
     checkboxSliding.hide();
 }
+function showOptions()
+{
+    size.show();
+    hrRed.show();
+    hrGreen.show();
+    hrBlue.show();
+    minRed.show();
+    minGreen.show();
+    minBlue.show();
+    secRed.show();
+    secGreen.show();
+    secBlue.show();
+    checkboxSliding.show();
+}
 function rainbowClock()
 {
     hrRed.value(random(0,255));
