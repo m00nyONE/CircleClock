@@ -4,10 +4,11 @@ A circle clock written in JS with p5.js
 you can click to show the watch hands.
 the other options are available in console or via the source code. A quick comment or uncomment will do the work.
 
+to show options open console and type in: showOptions();
+to hide the options, use: hideOptions();
+
 
 ex: http://www.m00net.de/projects/CircleClock
-
-
 
 
 this was mainly built just for fun and to have a template for an android live wallpaper.
