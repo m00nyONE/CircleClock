@@ -8,7 +8,7 @@ to show options open console and type in: showOptions();
 to hide the options, use: hideOptions();
 
 
-ex: http://www.m00net.de/projects/CircleClock
+ex: https://m00net.de/projects/CircleClock
 
 
 this was mainly built just for fun and to have a template for an android live wallpaper.
